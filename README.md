@@ -1,4 +1,4 @@
-# Flask JSON Endpoint Application
+# Flask  simple Application
 
 This is a simple Flask application that receives JSON data via a POST request and returns a response with the received data and a success message.
 
